@@ -1,0 +1,13 @@
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\bin\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.exe
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\bin\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.deps.json
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\bin\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.runtimeconfig.json
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\bin\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.runtimeconfig.dev.json
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\bin\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.dll
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\bin\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.pdb
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\obj\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.csprojAssemblyReference.cache
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\obj\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.AssemblyInfoInputs.cache
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\obj\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.AssemblyInfo.cs
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\obj\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.csproj.CoreCompileInputs.cache
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\obj\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.dll
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\obj\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.pdb
+C:\Users\ChristineJoy\source\repos\AdvPortfolio2_ChristineTorres\AdvPortfolio2_ChristineTorres\obj\Debug\netcoreapp3.1\AdvPortfolio2_ChristineTorres.genruntimeconfig.cache
